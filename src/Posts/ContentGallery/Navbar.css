@@ -1,0 +1,19 @@
+.Nav-container
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    color: rgb(85, 130, 137);
+    border: 1px solid black;
+  padding-top: .5rem;
+}
+.Add-More
+{
+    margin-top:.3rem ;
+}
+.Nav-search
+{
+    padding: 10px;
+    background-color:rgb(124, 203, 215); 
+    color: #fff;
+}
